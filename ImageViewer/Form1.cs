@@ -16,5 +16,10 @@ namespace ImageViewer
         {
             InitializeComponent();
         }
+
+        private void BtnNext_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
